@@ -1,6 +1,6 @@
 # Hi, I'm Juan Salazar
 
-Industrial Engineer turned data & analytics practitioner, currently pursuing a Master of Science in Business Analytics. I like turning messy operational data into dashboards, pipelines, and decisions that actually get used.
+I'm an Industrial Engineer with hands-on experience in procurement and project management, gained through progressive roles in the FMCG sector. Currently pursuing a Master of Science in Business Analytics. I like turning messy operational data into dashboards, pipelines, and decisions that actually get used.
 
 - Studying: **MS in Business Analytics** @ University of Central Florida (expected Summer 2027)
 - Background: **BS in Industrial Engineering** @ Universidad del Valle, Cali, Colombia (GPA 3.73/4.0)
