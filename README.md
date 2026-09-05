@@ -41,12 +41,6 @@ Collaborative project with an automated ETL pipeline in Python that pulls live N
 - Built in paired sessions using Git/GitHub for version control, with Claude Code assisting on script development
 - 📊 [Live Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjE1MzhmZjAtMzhkZS00NjJlLTlhMTEtMDg5ZGIyZjAxNjAwIiwidCI6ImZkNzY2ZWRkLThiZWEtNGM5OS04NjcyLTU2ZDFjYWJjMjcwNiIsImMiOjR9&pageName=20fe8de5bda3640e3517)
 
-## GitHub Stats
-
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanciro-commits&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanciro-commits&layout=compact&hide_border=true)
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-salazar-ciro/)
