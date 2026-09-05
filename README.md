@@ -35,7 +35,7 @@ Built a data pipeline analyzing 15,274 historical orders and inventory records (
 
 ### [NBA Analytics Dashboard](https://github.com/FernandoValencia-DS/nba-analytics-pipeline)
 
-Collaborative project with an automated ETL pipeline in Python that pulls live NBA game and player data from the NBA API into a Neon (serverless PostgreSQL) database on a daily schedule via GitHub Actions. Power BI connects directly to Neon for automatic refreshes.
+Collaborative project with an automated ETL pipeline in Python that pulls live NBA game and player data from the NBA API into a Neon database on a daily schedule via GitHub Actions. Power BI connects directly to Neon for automatic refreshes.
 
 - Two interactive dashboards: player comparison (shot charts, percentiles) and team comparison (head-to-head, season performance)
 - Built in paired sessions using Git/GitHub for version control, with Claude Code assisting on script development
