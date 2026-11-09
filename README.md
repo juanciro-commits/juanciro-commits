@@ -30,7 +30,7 @@ I'm an Industrial Engineer with hands-on experience in procurement and project m
 
 ### [Portfolio Allocation: Minimum Variance vs. 1/N](https://github.com/juanciro-commits/Portfolio-Allocation-Project)
 
-Stochastic Methods for Business Analytics project (UCF MSBA). Builds minimum-variance portfolios on 9 multi-asset ETFs (U.S. and international stocks, Treasuries, corporate bonds, gold, REITs) with daily data from 2005 to 2026, and studies how they behave out of sample against an equal-weight (1/N) benchmark through the 2008 crisis, the COVID crash and the 2022 inflation shock.
+Builds minimum-variance portfolios on 9 multi-asset ETFs (U.S. and international stocks, Treasuries, corporate bonds, gold, REITs) with daily data from 2005 to 2026, and studies how they behave out of sample against an equal-weight (1/N) benchmark through the 2008 crisis, the COVID crash and the 2022 inflation shock.
 
 - Monthly rolling-window backtest (225 rebalances, Feb 2008 – Oct 2026) of unconstrained, long-only (numerical optimizer) and volatility-targeted leveraged versions, with turnover, trading costs, a no-trade band and borrowing-cost sensitivity
 - Minimum variance cut volatility to about a third of 1/N's (4.5% vs 12.9%) and max drawdown from −37.2% to −13.9%, with a higher Sharpe ratio (0.48 vs 0.40)
