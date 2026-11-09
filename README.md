@@ -4,11 +4,13 @@ I'm an Industrial Engineer with hands-on experience in procurement and project m
 
 - Studying: **MS in Business Analytics** @ University of Central Florida (expected Summer 2027)
 - Background: **BS in Industrial Engineering** @ Universidad del Valle, Cali, Colombia (GPA 3.73/4.0)
-- Currently exploring: Python-based ETL pipelines, Supabase/PostgreSQL, Neon (serverless Postgres), and AI-assisted development with Claude Code
+- Currently exploring: portfolio optimization and out-of-sample backtesting, Python-based ETL pipelines, Supabase/PostgreSQL, Neon (serverless Postgres), and AI-assisted development with Claude Code
 
 **Programming & Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
@@ -20,10 +22,21 @@ I'm an Industrial Engineer with hands-on experience in procurement and project m
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ## Featured Projects
+
+### [Portfolio Allocation: Minimum Variance vs. 1/N](https://github.com/juanciro-commits/Portfolio-Allocation-Project)
+
+Stochastic Methods for Business Analytics project (UCF MSBA). Builds minimum-variance portfolios on 9 multi-asset ETFs (U.S. and international stocks, Treasuries, corporate bonds, gold, REITs) with daily data from 2005 to 2026, and studies how they behave out of sample against an equal-weight (1/N) benchmark through the 2008 crisis, the COVID crash and the 2022 inflation shock.
+
+- Monthly rolling-window backtest (225 rebalances, Feb 2008 – Oct 2026) of unconstrained, long-only (numerical optimizer) and volatility-targeted leveraged versions, with turnover, trading costs, a no-trade band and borrowing-cost sensitivity
+- Minimum variance cut volatility to about a third of 1/N's (4.5% vs 12.9%) and max drawdown from −37.2% to −13.9%, with a higher Sharpe ratio (0.48 vs 0.40)
+- That edge depended on the rate regime: Sharpe 0.79 vs 0.49 in 2008–2021, but −0.24 vs 0.08 in 2022–2026, when the stock–bond correlation turned positive
+- With realistic borrowing spreads and short fees, the leveraged version's advantage over 1/N disappears
+- 📓 Python · pandas · NumPy · yfinance · Jupyter
 
 ### Warehouse Storage Optimization — Bachelor's Thesis
 
